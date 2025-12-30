@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Poetic Coding",
+    "date": "2025-12-31",
+    "url": "posts/001-poetic-coding.html"
+  },
+  {
+    "id": 2,
+    "title": "Second Note",
+    "date": "2025-12-31",
+    "url": "posts/002-second-note.html"
+  }
+]
